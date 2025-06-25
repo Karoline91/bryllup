@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vi gifter oss</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #fefefe;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 20px 0;
+    }
+    h1 {
+      color: #d45d79;
+    }
+    section {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      background: #f7d6e0;
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Velkommen til vårt bryllup!</h1>
+    <p>13. juni 2025 | Månefisken</p>
+  </header>
+
+  <section>
+    <h2>Program for dagen</h2>
+    <ul>
+      <li>14:00 Vielse</li>
+      <li>16:00 Mottakelse med velkomstdrink </li>
+      <li>17:00 Middag</li>
+    </ul>
+  </section>
+</body>
+</html>
